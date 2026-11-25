@@ -1,0 +1,15 @@
+body { font-family: Arial, sans-serif; background: #e8f0fb; margin: 0; padding: 30px 15px; }
+.tarjeta { max-width: 460px; margin: auto; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.1); border-top: 6px solid #003366; }
+h1 { color: #003366; text-align: center; margin-top: 0; }
+.sub { text-align: center; color: #555; }
+label { display: block; font-weight: bold; margin-top: 12px; color: #003366; }
+input { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; }
+button { width: 100%; padding: 12px; margin-top: 18px; background: #003366; color: white; border: none; border-radius: 6px; font-size: 16px; cursor: pointer; }
+button:hover { background: #2563eb; }
+.resultado { padding: 15px; border-radius: 8px; margin-bottom: 15px; }
+.ok { background: #d4edda; color: #155724; }
+.mal { background: #f8d7da; color: #721c24; }
+.promedio { font-size: 22px; font-weight: bold; }
+.error { background: #f8d7da; color: #721c24; padding: 12px; border-radius: 6px; }
+a { color: #003366; }
+footer { text-align: center; color: #666; margin-top: 20px; font-size: 14px; }
